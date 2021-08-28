@@ -1,6 +1,6 @@
 @media all {
-}
 body{
+    background-color: burlywood;
     text-align: center;
 }
     #navbar{
@@ -8,7 +8,12 @@ body{
       background-color: aquamarine;
     } 
     header{
-        font-size: 1.25rem;
+        font-size: 2rem;
+    }
+    code{
+        font-size: 1.35rem;
+    }
+    
 
         
 }
